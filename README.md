@@ -7,7 +7,9 @@ Features:
 
 Load a CSV file and save results to a JSON file.
 Sort data using the sorteddict from the blist library.
+
 Query capability with a simplified SQL command set:
+
 Supports only specific queries and limited condition operators.
 Supports SELECT, INSERT, DELETE operations.
 Queries are case-insensitive.
